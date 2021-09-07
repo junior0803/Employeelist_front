@@ -1,0 +1,6 @@
+# IntelliJ
+.idea/
+
+# Composer
+node_modules/
+dist/
